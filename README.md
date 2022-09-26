@@ -49,9 +49,9 @@ Map showing all ending locations, the bigger and darker the circle the most freq
 
 ![7](https://github.com/ZZaman1989/bikesharing/blob/main/Resources/7.png)
 
-#### NYC Bikes-Sharing
+#### NYC Citibike
 
-[Link to NYC Bikes-Sharing Story](https://10az.online.tableau.com/#/site/blab/views/Bikesharing/NYCCitibike?:iid=2)
+[Link to NYC Citibike Story](https://10az.online.tableau.com/#/site/blab/views/Bikesharing/NYCCitibike?:iid=2)
 
 ### Summary
 Males use the bikes the most on weekdays during rush hours. For more analysis before making decision, I would suggest a visualization for inventory use and maintenance by location. In addition, having visual demogrpahics will help with making a decision as well.
